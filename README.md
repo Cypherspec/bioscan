@@ -1,15 +1,15 @@
 # 🌿 BioScan — AI Plant Disease Detector
 
-BioScan is an AI-powered plant health scanner built with React and the Anthropic Claude API. Upload or take a photo of any plant to get an instant diagnosis, care tips, and treatment recommendations.
+BioScan is an AI-powered plant health scanner built with React. Upload or take a photo of any plant to get an instant diagnosis, care tips, and treatment recommendations.
 
 ## Features
 
-- 📸 Scan plants via photo upload or camera
-- 🔬 AI-powered disease & pest detection
-- 💊 Treatment plans (immediate, long-term, preventive)
-- 📚 Disease library with 15+ conditions
-- 🌱 Plant care profiles & reminders
-- 🏡 Personal garden history
+- Scan plants via photo upload or camera
+- AI-powered disease & pest detection
+- Treatment plans (immediate, long-term, preventive)
+- Disease library with 15+ conditions
+- Plant care profiles & reminders
+- Personal garden history
 
 ## Getting Started
 
@@ -50,7 +50,6 @@ Just connect your GitHub repo and add `REACT_APP_ANTHROPIC_KEY` as an environmen
 ## Tech Stack
 
 - React 18
-- Anthropic Claude API (claude-sonnet-4)
 - CSS-in-JS (inline styles)
 
 ## License
