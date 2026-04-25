@@ -1,4 +1,4 @@
-# BioScan - AI Plant Disease Detector
+# 🌿 BioScan — AI Plant Disease Detector
 
 BioScan is an AI-powered plant health scanner built with React. Upload or take a photo of any plant to get an instant diagnosis, care tips, and treatment recommendations.
 
